@@ -3,7 +3,7 @@ body, html {
   height: 100%;
   margin: 0;
   font-family: Verdana, Helvetica, Arial, san-serif;
-  background-color: white;
+  background: linear-gradient(90deg, #005A70 25%, #BD5B00 75%);
 }
 
 .hero-image {
